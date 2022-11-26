@@ -2,3 +2,5 @@
 
 
 Some text
+## Картинка
+![Apple](apple.JPG)
