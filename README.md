@@ -1,4 +1,4 @@
-# git_lessons
+# Git_lessons
 
 
 Some text
