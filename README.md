@@ -12,4 +12,4 @@ Some text
 
 ## Картинка помидора
 
-![Orange](tomato.JPG)
+![Tomato](tomato.JPG)
