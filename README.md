@@ -9,3 +9,7 @@ Some text
 ## Картинка апельсина
 
 ![Orange](orange.JPG)
+
+## Картинка помидора
+
+![Orange](tomato.JPG)
